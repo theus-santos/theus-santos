@@ -12,8 +12,8 @@
 
 <div align="center">
   <a href="https://github.com/theus-santos">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=theus-santos&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theus-santos&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="150em" src="![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=theus-santos&show_icons=true&theme=radical)"/>
+    <img height="150em" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theus-santos&langs_count=8)](https://github.com/theus-santos/github-readme-stats)"/>
   </a>
 </div>
 
