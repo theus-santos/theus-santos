@@ -8,67 +8,33 @@
 </div>
 
 
-<table align="center">
-  <tr>
-    <td align="center" width="80">
-      <img alt="Angular" title="Angular" height="48"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/angular/angular-original.svg" />
-    </td>
-    <td align="center" width="80">
-      <img alt="TypeScript" title="TypeScript" height="48"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/typescript/typescript-original.svg" />
-    </td>
-    <td align="center" width="80">
-      <img alt="JavaScript" title="JavaScript" height="48"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/javascript/javascript-original.svg" />
-    </td>
-    <td align="center" width="80">
-      <img alt="Node.js" title="Node.js" height="48"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/nodejs/nodejs-original.svg" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="80">
-      <img alt="Sequelize" title="Sequelize" height="48"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/sequelize/sequelize-original.svg" />
-    </td>
-    <td align="center" width="80">
-      <img alt="MySQL" title="MySQL" height="48"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/mysql/mysql-original.svg" />
-    </td>
-    <td align="center" width="80">
-      <img alt="Jest" title="Jest" height="48"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/jest/jest-plain.svg" />
-    </td>
-    <td align="center" width="80">
-      <img alt="AWS" title="AWS" height="48"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/amazonwebservices/amazonwebservices-original.svg" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="80">
-      <img alt="Git" title="Git" height="48"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/git/git-original.svg" />
-    </td>
-    <td align="center" width="80">
-      <img alt="Linux" title="Linux" height="48"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/linux/linux-original.svg" />
-    </td>
-    <td align="center" width="80">
-      <img alt="HTML5" title="HTML5" height="48"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/html5/html5-original.svg" />
-    </td>
-    <td align="center" width="80">
-      <img alt="CSS3" title="CSS3" height="48"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/css3/css3-original.svg" />
-    </td>
-  </tr>
-</table>
+<div align="center"><br>
+  <img alt="Angular" title="Angular" height="48"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" />
+  <img alt="TypeScript" title="TypeScript" height="48"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img alt="JavaScript" title="JavaScript" height="48"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
-<td align="center" width="80">
-  <img alt="Docker" title="Docker" height="48"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/docker/docker-original.svg" />
-</td>
+  <img alt="Node.js" title="Node.js" height="48"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="Sequelize" title="Sequelize" height="48"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
+
+  <img alt="AWS" title="AWS" height="48"
+       src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" />
+  <!-- 
+  <img alt="AWS" title="AWS" height="48"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  -->
+
+  <img alt="MySQL" title="MySQL" height="48"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img alt="Jest" title="Jest" height="48"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <img alt="Git" title="Git" height="48"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</div>
 
 <br/>
 
