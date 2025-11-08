@@ -17,11 +17,11 @@
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
   <img alt="Node.js" title="Node.js" height="48"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+     src="https://www.vectorlogo.zone/logos/nodejs/nodejs-wordmark.svg" />
   <img alt="Sequelize" title="Sequelize" height="48"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
   <img alt="AWS" title="AWS" height="48"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+     src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" />
 
   <img alt="MySQL" title="MySQL" height="48"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
