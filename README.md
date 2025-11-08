@@ -7,28 +7,16 @@
   </p>
 </div>
 
-
 <div align="center"><br>
-  <img alt="Angular" title="Angular" height="48"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" />
-  <img alt="TypeScript" title="TypeScript" height="48"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img alt="JavaScript" title="JavaScript" height="48"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-
-  <img alt="Node.js" title="Node.js" height="48"
-     src="https://www.vectorlogo.zone/logos/nodejs/nodejs-wordmark.svg" />
-  <img alt="Sequelize" title="Sequelize" height="48"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
-  <img alt="AWS" title="AWS" height="48"
-     src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" />
-
-  <img alt="MySQL" title="MySQL" height="48"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img alt="Jest" title="Jest" height="48"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-  <img alt="Git" title="Git" height="48"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="Angular" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" />&nbsp;&nbsp;
+  <img alt="TypeScript" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />&nbsp;&nbsp;
+  <img alt="JavaScript" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
+  <img alt="Node.js" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />&nbsp;&nbsp;
+  <img alt="Sequelize" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />&nbsp;&nbsp;
+  <img alt="AWS" height="48"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />&nbsp;&nbsp;
+  <img alt="MySQL" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />&nbsp;&nbsp;
+  <img alt="Jest" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />&nbsp;&nbsp;
+  <img alt="Git" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
 <br/>
