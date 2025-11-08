@@ -22,11 +22,7 @@
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
 
   <img alt="AWS" title="AWS" height="48"
-       src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" />
-  <!-- 
-  <img alt="AWS" title="AWS" height="48"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-  -->
 
   <img alt="MySQL" title="MySQL" height="48"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
